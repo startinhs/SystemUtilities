@@ -1,0 +1,42 @@
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.exe.config
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.exe
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.pdb
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.Properties.Resources.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.GenerateResource.cache
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.CoreCompileInputs.cache
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.exe
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.pdb
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmMain.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmShutdownTimer.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmRemind.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmNote.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\bin\Debug\vi\SystemUtilities.resources.dll
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmMain.vi.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\vi\SystemUtilities.resources.dll
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmImageFormat.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmClearCache.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.AssemblyReference.cache
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.SuggestedBindingRedirects.cache
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmTaskManager.resources
+E:\Documents\PROGRAMING\GiaoDien_C#\BAITAPLON\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmAbout.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.exe.config
+D:\Máy cũ\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.exe
+D:\Máy cũ\SystemUtilities\SystemUtilities\bin\Debug\SystemUtilities.pdb
+D:\Máy cũ\SystemUtilities\SystemUtilities\bin\Debug\vi\SystemUtilities.resources.dll
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.AssemblyReference.cache
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.SuggestedBindingRedirects.cache
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmAbout.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmClearCache.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmImageFormat.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmMain.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmNote.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmRemind.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmShutdownTimer.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmTaskManager.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.Properties.Resources.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.FrmMain.vi.resources
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.GenerateResource.cache
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.csproj.CoreCompileInputs.cache
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\vi\SystemUtilities.resources.dll
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.exe
+D:\Máy cũ\SystemUtilities\SystemUtilities\obj\Debug\SystemUtilities.pdb
